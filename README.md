@@ -1,3 +1,7 @@
+## Live Version
+
+https://cemkgrbz.github.io/typography-demo/
+
 # typography-demo
 
 demo on web typography that examines:
